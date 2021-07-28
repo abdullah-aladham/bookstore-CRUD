@@ -1,2 +1,2 @@
 # bookstore-CRUD
-this project is built with AI bot, for depre$sion and psychological support 
+<h2>This is implementation of CRUD Style for a book Store in php</h2>

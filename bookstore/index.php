@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    
+
     <?php require('./services/process.php'); ?>
     <div class="row justify-content-center">
         <form action="process.php" method="post">
@@ -32,6 +32,10 @@
             </div>
         </form>
     </div>
+
+    <footer>
+        
+    </footer>
 </body>
 
 </html>
